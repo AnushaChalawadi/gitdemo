@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="267" started-at="2020-08-26T14:28:53Z" finished-at="2020-08-26T14:28:54Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="267" started-at="2020-08-26T14:28:53Z" finished-at="2020-08-26T14:28:54Z">
+      <class name="MavenBeginner.MavenJava.AppiumTest">
+        <test-method status="PASS" signature="IosApp()[pri:0, instance:MavenBeginner.MavenJava.AppiumTest@37574691]" name="IosApp" duration-ms="58" started-at="2020-08-26T19:58:53Z" finished-at="2020-08-26T19:58:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IosApp -->
+        <test-method status="PASS" signature="NavtiveApp()[pri:0, instance:MavenBeginner.MavenJava.AppiumTest@37574691]" name="NavtiveApp" duration-ms="70" started-at="2020-08-26T19:58:53Z" finished-at="2020-08-26T19:58:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NavtiveApp -->
+      </class> <!-- MavenBeginner.MavenJava.AppiumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
